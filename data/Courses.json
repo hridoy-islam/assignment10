@@ -1,0 +1,38 @@
+[
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "title": "JavaScript",
+        "thumbnail_url": "https://i.ytimg.com/vi/pAEtBqWhp3Q/maxresdefault.jpg",
+        "details": "JavaScript, often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6v",
+        "title": "Python",
+        "thumbnail_url": "https://365datascience.com/resources/blog/2017-11-Programming-in-900-words-min.png",
+        "details": "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured, object-oriented and functional programming"
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6x",
+        "title": "Java",
+        "thumbnail_url": "https://i.pcmag.com/imagery/articles/03mYCJkIdptJX1Soh08tBzt-1..v1630572092.jpg",
+        "details": "Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6w",
+        "title": "PHP",
+        "thumbnail_url": "https://miro.medium.com/max/1400/0*ztpeFW3W2XyTlsTy",
+        "details": "PHP is a general-purpose scripting language geared toward web development. It was originally created by Danish-Canadian programmer Rasmus Lerdorf in 1993. The PHP reference implementation is now produced by The PHP Group"
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6s",
+        "title": "Fundamentals of C++",
+        "thumbnail_url": "https://educative.io/v2api/editorpage/5393602882568192/image/6038586442907648",
+        "details": "C++ is a high-level general-purpose programming language created by Danish computer scientist Bjarne Stroustrup as an extension of the C programming language, or C with Classes"
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6g",
+        "title": "Ruby On Rails",
+        "thumbnail_url": "https://asterdio.com/wp-content/uploads/2021/04/ruby-rails-development.jpeg",
+        "details": "Ruby on Rails is a server-side web application framework written in Ruby under the MIT License. Rails is a model–view–controller framework, providing default structures for a database, a web service, and web pages."
+    }
+]
